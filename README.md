@@ -3,7 +3,7 @@
 A minimal Flask web application built for learning containerization and deployment to **AWS ECS (Elastic Container Service)**.
 
 
-![Python](https://img.shields.io/badge/Python-3.14-blue)
+![Python](https://img.shields.io/badge/python-3.10-slim)
 ![Flask](https://img.shields.io/badge/Flask-3.1.1-green)
 ![Docker](https://img.shields.io/badge/Docker-Ready-2496ED)
 ![AWS ECS](https://img.shields.io/badge/AWS-ECS-FF9900)
